@@ -13,16 +13,6 @@ Microservicio de catálogo de FixGo: profesionales, verificación, categorías, 
 | Swagger | http://localhost:8083/swagger-ui.html |
 | Responsable | Gabriel Tijaro Jimenez |
 
-## Cómo ejecutar
-
-1.```sql
-   CREATE DATABASE fixgo_catalog CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-   ```
-3. Ejecutar:
-   ```bash
-   ./mvnw spring-boot:run
-   ``` 
-
 ## Endpoints
 
 | Método | Ruta | Qué hace |
