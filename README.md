@@ -35,3 +35,4 @@ Microservicio de catálogo de FixGo: profesionales, verificación, categorías, 
 | DELETE | `/api/service-types/{id}` | Desactivar (borrado lógico) |
 
 La colección de Postman está en `postman/`.
+**Responsable:** Gabriel Tijaro Jimenez
