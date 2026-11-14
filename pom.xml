@@ -11,9 +11,9 @@
 	</parent>
 
 	<groupId>co.fixgo</groupId>
-	<artifactId>fixgo-catalog-service</artifactId>
+	<artifactId>fixgo-catalog-provider-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>fixgo-catalog-service</name>
+	<name>fixgo-catalog-provider-service</name>
 	<description>Microservicio de catalogo de FixGo: categorias y subservicios</description>
 
 	<properties>

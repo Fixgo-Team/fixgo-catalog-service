@@ -1,6 +1,6 @@
-# fixgo-catalog-service
+# fixgo-catalog-provider-service
 
-Microservicio de catálogo de FixGo: profesionales, verificación, categorías, subservicios y agenda.
+Microservicio de catalogo y profesionales de FixGo.
 
 **Fase 1:** categorías y subservicios (RF2.4 y RF2.5 del SRS 3.0).
 
